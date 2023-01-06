@@ -135,3 +135,77 @@
     color: #737272;
     margin-top: 16px;
 }
+
+/* image-section-style */
+.image-section {
+    margin-top: 127px;
+    background: linear-gradient(rgba(237, 91, 34, 0.723), rgba(220, 138, 97, 0)), url(../images/watch.png);
+    height: 300px;
+}
+
+.image-section-container {
+    padding: 60px 617px 60px 64px;
+}
+
+.image-section-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+
+.btn-secendary {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    background: #FFFFFF;
+    border-radius: 5px;
+    padding: 21px 36px;
+    border: 0;
+    margin-top: 24px;
+}
+
+/* what-i-do-style */
+.what-i-do-section {
+    text-align: center;
+    margin-top: 130px;
+}
+
+.what-do-description {
+    margin-top: 24px;
+    padding: 0 150px 0;
+    text-align: center;
+}
+
+.skils-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    gap: 24px;
+}
+
+.skil {
+    padding: 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+
+.skil-title {
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    text-align: center;
+    color: #181818;
+}
+
+.skil-description {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #757575
+}
