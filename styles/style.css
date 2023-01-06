@@ -97,3 +97,41 @@
     color: #444343;
     margin-bottom: 8px;
 }
+
+/* my-plans-styles */
+.plans-title {
+    text-align: center;
+    margin-top: 120px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.plans-container {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.plans-sub-container {
+    text-align: center;
+}
+
+.plans-sub-container-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-top: 24px;
+}
+
+.plans-sub-container-sub-title {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+    margin-top: 16px;
+}
